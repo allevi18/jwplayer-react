@@ -69,6 +69,7 @@ module.exports = new Set([
   'selectedBitrate',
   'setTimeEvents',
   'skin',
+  'timeSlider',
   'sharing',
   'sources',
   'stagevideo',
